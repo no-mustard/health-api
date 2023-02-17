@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+	"baseUrl": "./",
+	"paths": {
+	  "@root/*": ["./src/*"],
+	  "@authentication/*": ["./src/authentication/*"],
+	  "@user/*": ["./src/user/*"],
+	}
+  }
+}
